@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Alarm Clock</string>
+    <string name="title_activity_add_reminder">Title Activity Add Alarm</string>
+    <string name="editor_activity_title_new_reminder">Editor Activity Title New Alarm</string>
+    <string name="editor_activity_title_edit_reminder">Editor Activity Title Edit Reminder</string>
+    <string name="repeat_off">Repeat Off</string>
+    <string name="unsaved_changes_dialog_msg">Unsave Changes Dialog Msg</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete Dialog Msg</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_reminder_failed">Editor Delete Reminder Faliled</string>
+    <string name="editor_delete_reminder_successful">Editor Delete Reminder Successful</string>
+    <string name="editor_insert_reminder_failed">Editor Insert Reminder Failed</string>
+    <string name="editor_insert_reminder_successful">Editor Insert Reminder Successul</string>
+    <string name="editor_update_reminder_failed">Editor Update Reminder Failed</string>
+    <string name="editor_update_reminder_successful">Editor Update Reminder Successfu;</string>
+    <string name="reminder_title">Reminder Title</string>
+
+</resources>
